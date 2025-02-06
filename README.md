@@ -1,4 +1,4 @@
-# Hi there! I'm Gabriel Gatbonton 👋
+# Hi there! I'm Gabriel Alfonso Gatbonton 👋
 
 ## About Me 🌟
 
@@ -34,9 +34,8 @@ A passionate student developer focusing on frontend web development. Studying at
 
 ## Connect With Me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alfonso-gatbonton-4496a0245/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ggatbonton.cs@gmail.com)
 
 ## Featured Projects 🚀
 
@@ -53,4 +52,4 @@ Another project description highlighting your skills and contributions.
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Gabriel Alfonso Gatbonton](https://github.com/gabrielgatbonton)
