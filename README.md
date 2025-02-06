@@ -99,6 +99,8 @@
 
 ###
 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielgatbonton/gabrielgatbonton/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielgatbonton/gabrielgatbonton/output/github-snake.svg" />
 <img src="https://raw.githubusercontent.com/gabrielgatbonton/gabrielgatbonton/output/snake.svg" alt="Snake animation" />
 
 ###
